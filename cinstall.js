@@ -9,7 +9,7 @@ var end   = false;
 			}else if(split.length >= 3){
 				end = split[0]+" "+split[1]+" "+split[2];
 			}else if(split.length >= 4){
-				end = split[0]+" "+split[1]+" "+split[2]" "+split[3]+;
+				end = split[0]+" "+split[1]+" "+split[2]" "+split[3];
 			}else{
 				end = document.title;
 			}
