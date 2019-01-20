@@ -6,7 +6,7 @@ var end   = false;
 				end = split[0];
 			}else if(split.length == 2){
 				end = split[0]+" "+split[1];
-			}else if(split.length >= 3){
+			}else if(split.length == 3){
 				end = split[0]+" "+split[1]+" "+split[2];
 			}else if(split.length >= 4){
 				end = split[0]+" "+split[1]+" "+split[2]" "+split[3];
