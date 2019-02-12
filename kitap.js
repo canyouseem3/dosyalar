@@ -12,6 +12,14 @@ var end   = false;
 				end = split[0]+" "+split[1]+" "+split[2]+" "+split[3];
 			}else if(split.length >= 5){
 				end = split[0]+" "+split[1]+" "+split[2]+" "+split[3]+" "+split[4];
+			}else if(split.length >= 6){
+				end = split[0]+" "+split[1]+" "+split[2]+" "+split[3]+" "+split[4]+" "+split[5];
+			}else if(split.length >= 7){
+				end = split[0]+" "+split[1]+" "+split[2]+" "+split[3]+" "+split[4]+" "+split[5]+" "+split[6];
+			}else if(split.length >= 8){
+				end = split[0]+" "+split[1]+" "+split[2]+" "+split[3]+" "+split[4]+" "+split[5]+" "+split[6]+" "+split[7];
+			}else if(split.length >= 9){
+				end = split[0]+" "+split[1]+" "+split[2]+" "+split[3]+" "+split[4]+" "+split[5]+" "+split[6]+" "+split[7]+" "+split[8];
 			}else{
 				end = document.title;
 			}
