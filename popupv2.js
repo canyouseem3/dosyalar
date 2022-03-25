@@ -26,7 +26,7 @@ var cookies = document.cookie.toString().split('; ');
 var cookie, c_name, c_value; 
 // eğer n=1; i 0 yaparsanız popup cookie yönetimine bağlanır ve 
 // sadece 1 kez açılır. n=1; kaldığı sürece popup sürekli açılacaktır. 
-for (var n=0; n<cookies.length; n++) { 
+for (var n=1; n<cookies.length; n++) { 
 cookie = cookies[n].split('='); 
 c_name = cookie[0]; 
 c_value = cookie[1]; 
