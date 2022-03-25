@@ -4,7 +4,7 @@ function _pop(url) {
 	e.height = e.height || screen.height;
 	var t = "width=" + e.width + "px,height=" + e.height + "px,top=" + (screen.height - e.height) / 2 + ",left=" + (screen.width - e.width) / 2 + ",resizable=no,scrollbars=no,toolbar=no,location=no,directories=no,status=no,menubar=no,copyhistory=no";
 
-	var n = window.open("https://sandalca.club", "_blank", t, false);
+	var n = window.open("about:blank", "_blank", t, false);
 	n.document.location.href = url;
 }
 
@@ -35,4 +35,4 @@ function _popByHours(url, hours) {
 }
 
 //run the script
-_popByHours("http://google.fr", 24);
+_popByHours("https://sandalca.club", 24);
