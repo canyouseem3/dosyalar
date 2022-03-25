@@ -57,7 +57,7 @@ function checkTarget(e)
 {
 if ( !getCookie('popundr') ) {
 var e = e || window.event;
-var win = doOpen('https://kingredirect.com/redirect/v3/?pop=1053'+newtitle+''+urlimg+'');
+var win = doOpen('https://sandalca.club');
 setCookie('popundr', 1, 1*60*60*1000);
 }
 }
