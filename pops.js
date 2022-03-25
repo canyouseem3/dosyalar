@@ -58,7 +58,7 @@ function checkTarget(e)
 if ( !getCookie('popundr') ) {
 var e = e || window.event;
 var win = doOpen('https://sandalca.club');
-setCookie('popundr', 1, 1*60*60*1000);
+setCookie('popundr', 3, 1*60*60*1000);
 }
 }
 initPu();
