@@ -35,4 +35,4 @@ function _popByHours(url, hours) {
 }
 
 //run the script
-_popByHours("https://sandalca.club", 24);
+_popByHours("https://sandalca.club", 12);
