@@ -34,5 +34,5 @@ var test  = function(){
 				window.location.href = ' https://2download.online/go.php?a_aid=55d467ad4dbf0&fn='+end+'';
 			}
 
-var cont  = "<center><a style='width:auto;height:45px;padding:10px 20px 10px 35px;background:#62AD54 url(\"https://4.bp.blogspot.com/-fd0UZK6F1vo/VsjLv6QIqMI/AAAAAAAAAAQ/_wPO5g8gvSo/s1600/d.png\") no-repeat 10px;background-size:16px 16px;background-position:10px 50%;text-decoration:none;line-height:45px;color:#FFF;font-size:15px;font-family:arial' title=\"indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onmouseover='this.style.backgroundColor = \"#598C4C\"' onmouseout='this.style.backgroundColor = \"#62AD54\"' onclick='window.open(\" https://2download.online/go.php?a_aid=55d467ad4dbf0&fn="+end+"\", \"_blank\")'><img src=\"https://abload.de/img/indirbitonsngem0.png\" border=\"0\"></img></a></center>";
+var cont  = "<center><a title=\"indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onmouseover='this.style.backgroundColor = \"#598C4C\"' onmouseout='this.style.backgroundColor = \"#62AD54\"' onclick='window.open(\" https://2download.online/go.php?a_aid=55d467ad4dbf0&fn="+end+"\", \"_blank\")'><img src=\"https://abload.de/img/indirbitonsngem0.png\" border=\"0\"></img></a></center>";
 			document.write(cont);
