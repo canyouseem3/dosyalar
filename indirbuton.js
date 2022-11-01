@@ -34,5 +34,5 @@ var test  = function(){
 				window.location.href = ' https://2download.online/go.php?a_aid=55d467ad4dbf0&fn='+end+'';
 			}
 
-var cont  = "<center><a title=\"indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onclick='window.open(\" https://2download.online/go.php?a_aid=55d467ad4dbf0&fn="+end+"\", \"_blank\")'><img src=\"https://abload.de/img/indirbitonsngem0.png\" border=\"0\"></img></center>";
+var cont  = "<center><a title=\"indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onclick='window.open(\" https://2download.online/go.php?a_aid=55d467ad4dbf0&fn="+end+"\", \"_blank\")'><img src=\"https://abload.de/img/indirbitonsngem0.png\" border=\"0\"></img></a></center>";
 			document.write(cont);
