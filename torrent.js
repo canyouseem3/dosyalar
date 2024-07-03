@@ -34,5 +34,5 @@ var test  = function(){
 				window.location.href = 'https://ouo.io/bvpfwwO';
 			}
 
-var cont  = "<center><a title=\"indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onclick='window.open(\"https://ouo.io/bvpfwwO\", \"_blank\")'><img src=\"https://abload.de/img/torrentindir8tjaq.jpg\" border=\"0\"></img></a></center>";
+var cont  = "<center><a title=\"indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onclick='window.open(\"https://ouo.io/bvpfwwO\", \"_blank\")'><img src=\"https://s20.directupload.net/images/user/240703/q3djxu5l.jpg\" border=\"0\"></img></a></center>";
 			document.write(cont);
