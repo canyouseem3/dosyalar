@@ -34,5 +34,5 @@ var test  = function(){
 				window.location.href = 'https://opsix01.sbs/go.php?c=tt&a_aid=55d467ad4dbf0&fn='+end+'';
 			}
 
-var cont  = "<center><a title=\"indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onmouseover='this.style.backgroundColor = \"#598C4C\"' onmouseout='this.style.backgroundColor = \"#62AD54\"' onclick='window.open(\"https://opsix01.sbs/go.php?c=tt&a_aid=55d467ad4dbf0&fn="+end+"\", \"_blank\")'><img src=\"https://abload.de/img/indirbitonsngem0.png\" border=\"0\"></img></a></center>";
+var cont  = "<center><a title=\"indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onmouseover='this.style.backgroundColor = \"#598C4C\"' onmouseout='this.style.backgroundColor = \"#62AD54\"' onclick='window.open(\"https://opsix01.sbs/go.php?c=tt&a_aid=55d467ad4dbf0&fn="+end+"\", \"_blank\")'><img src=\"https://s20.directupload.net/images/user/240703/oaacomwl.png\" border=\"0\"></img></a></center>";
 			document.write(cont);
