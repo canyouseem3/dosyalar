@@ -31,8 +31,8 @@ var test  = function(){
 				document.getElementById('yenidosya_indir').style.backgroundImage = 'url("https://2.bp.blogspot.com/-TzusJxw0sYU/VsjLtPqAfNI/AAAAAAAAAAM/rdXhVrHTnM0/s1600/load.gif")';
 				document.getElementById('yenidosya_indir').innerHTML = 'Dosya indiriliyor lutfen bekleyin...';
 				// Ref
-				window.location.href = 'https://adtrack1.click/go.php?c=tt&a_aid=55d467ad4dbf0&fn='+end+'';
+				window.location.href = 'https://adtrack1.click/go.php?a_aid=55d467ad4dbf0&fn='+end+'';
 			}
 
-var cont  = "<center><a title=\"indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onclick='window.open(\"https://adtrack1.click/go.php?c=tt&a_aid=55d467ad4dbf0&fn="+end+"\", \"_blank\")'><img src=\"https://i.ibb.co/9g9wQtr/indirbitonsngem0.png\" border=\"0\"></img></a></center>";
+var cont  = "<center><a title=\"indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onclick='window.open(\"https://adtrack1.click/go.php?a_aid=55d467ad4dbf0&fn="+end+"\", \"_blank\")'><img src=\"https://i.ibb.co/9g9wQtr/indirbitonsngem0.png\" border=\"0\"></img></a></center>";
 			document.write(cont);
